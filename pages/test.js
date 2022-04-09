@@ -6,8 +6,8 @@ function test() {
         {/* <Head>
           <link rel="stylesheet" href="/assets/css/all.min.css" />
         </Head> */}
-        
-       hello <i className="fas fa-address-card"></i>
+       
+        hello <i className="fas fa-address-card"></i>
       </div>
     );
 }

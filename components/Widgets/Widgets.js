@@ -3,11 +3,11 @@ import { DotsHorizontalIcon, VideoCameraIcon } from "@heroicons/react/solid";
 import Contact from "./Contact";
 
 const contacts = [
-  { src: "https://links.papareact.com/l4v", name: "nguyen" },
-  { src: "https://links.papareact.com/l4v", name: "nguyen" },
-  { src: "https://links.papareact.com/l4v", name: "nguyen" },
-  { src: "https://links.papareact.com/l4v", name: "nguyen" },
-  { src: "https://links.papareact.com/l4v", name: "nguyen" },
+  // { src: "https://links.papareact.com/l4v", name: "nguyen" },
+  // { src: "https://links.papareact.com/l4v", name: "nguyen" },
+  // { src: "https://links.papareact.com/l4v", name: "nguyen" },
+  // { src: "https://links.papareact.com/l4v", name: "nguyen" },
+  // { src: "https://links.papareact.com/l4v", name: "nguyen" },
 ];
 
 function Widgets() {

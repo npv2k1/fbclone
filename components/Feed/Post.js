@@ -10,7 +10,7 @@ function Post({id, name, message, email, timestamp, image, postImage }) {
         <div className="flex items-center space-x-2">
           <img
             className="rounded-full"
-            src={image}
+            src={image || "https://hook.finance/sites/default/files/user.png"}
             width={40}
             height={40}
             alt="Profile Image"
