@@ -9,7 +9,7 @@ import { useEffect, useRef, useState } from "react";
 import MenuItem from "./MenuItem";
 import { useRouter } from "next/router";
 function DropdownMenu({ active, changeActive }) {
-   const router = useRouter();
+  const router = useRouter();
   const [menu, setMenu] = useState("menu");
   const dropdownMenuRef = useRef(null);
 
